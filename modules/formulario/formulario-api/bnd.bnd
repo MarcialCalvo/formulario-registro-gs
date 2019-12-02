@@ -1,0 +1,10 @@
+Bundle-Name: formulario-api
+Bundle-SymbolicName: com.liferay.gs.form.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.gs.form.exception,\
+	com.liferay.gs.form.model,\
+	com.liferay.gs.form.service,\
+	com.liferay.gs.form.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../formulario-service/service.xml

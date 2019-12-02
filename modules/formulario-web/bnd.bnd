@@ -1,0 +1,4 @@
+Bundle-Name: formulario-web
+Bundle-SymbolicName: com.liferay.gs.form
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.gs.form.constants
