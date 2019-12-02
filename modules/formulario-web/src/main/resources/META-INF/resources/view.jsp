@@ -1,9 +1,5 @@
 <%@ include file="/init.jsp" %>
 
-<%@ taglib uri="http://liferay.com/tld/aui" prefix="aui" %><%@
-taglib uri="http://liferay.com/tld/captcha" prefix="liferay-captcha" %><%@
-taglib uri="http://liferay.com/tld/ui" prefix="liferay-ui" %>
-
 <portlet:actionURL var="submitURL" />
 <portlet:resourceURL var="captchaURL" />
 
